@@ -1,6 +1,11 @@
 # ad_redesign
 Redesign of Amphibian Disease Portal
 
+GEOME is hosting all project data. Users go there and load data as expeditions to the Amphibian Disease Project.
+This project is linked as: https://geome-db.org/workbench/overview?projectId=174
+Need to create user accounts for each user to load expeditions.
+Geome configurations: https://github.com/biocodellc/geome-configurations/tree/master/amphibianDisease
+
 # Getting AD Projects (Expeditions)
 Expeditions in GEOME correspond to Projects in AD portal.  To fetch expedition data for AD portal from Geome, call:
 
